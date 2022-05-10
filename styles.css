@@ -6,9 +6,10 @@ background-color:white;
 #header-nav{
 background-color: grey;
 border-radius:0;
-border:1px solid black;
+border:2px solid black;
 }
 
 #container1, #container2, #container3{
 background-color:grey;
+border-radius:2px solid black;
 }
