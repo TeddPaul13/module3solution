@@ -3,13 +3,14 @@ body{
 background-color:white;
 }
 
-#header-nav{
+#navbar{
 background-color: #7F8C8D;
 border-radius:0;
 border:2px solid black;
 }
 .navbar-brand{
 color:black;
+font-size: 25px
 }
 #container1, #container2, #container3{
 background-color:grey;
