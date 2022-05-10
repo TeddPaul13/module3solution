@@ -12,6 +12,15 @@ border:2px solid black;
 color:black;
 font-size: 25px
 }
+.navbar-nav{
+text-align: center;
+}
+#nav-item{
+width:100%;
+background-color:  white;
+color: black;
+border-bottom: 1px solid black;
+}
 #container1, #container2, #container3{
 background-color:grey;
 margin:20px;
