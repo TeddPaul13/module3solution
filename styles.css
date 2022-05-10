@@ -8,8 +8,15 @@ background-color: grey;
 border-radius:0;
 border:2px solid black;
 }
-
+.navbar-brand, h1{
+color:black;
+}
 #container1, #container2, #container3{
 background-color:grey;
 border-radius:2px solid black;
+margin:20px;
+}
+#chicken, #beef, #sushi{
+text-align:center;
+font-weignt:bold;
 }
