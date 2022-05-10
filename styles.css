@@ -1,4 +1,14 @@
 
+body{
+background-color:white;
+}
+
 #header-nav{
 background-color: grey;
+border-radius:0;
+border:1px solid black;
+}
+
+#container1, #container2, #container3{
+background-color:grey;
 }
