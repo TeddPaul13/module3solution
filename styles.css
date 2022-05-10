@@ -6,7 +6,7 @@ background-color:white;
 #header-nav{
 background-color: #d3d3d3;
 border-radius:0;
-/**border:2px solid black;**/
+border:2px solid black;
 }
 .navbar-brand{
 color:black;
